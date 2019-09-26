@@ -1,6 +1,7 @@
 .idea
 .vs
 .vscode
+desktop.ini
 
 # Created by https://www.gitignore.io/api/jetbrains,visualstudio,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=jetbrains,visualstudio,visualstudiocode
